@@ -1,0 +1,9 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.OpenId.Core.EntityFrameworkCore\bin\Debug\netcoreapp3.0\OrchardCore.OpenId.Core.EntityFrameworkCore.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.OpenId.Core.EntityFrameworkCore\bin\Debug\netcoreapp3.0\OrchardCore.OpenId.Core.EntityFrameworkCore.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.OpenId.Core.EntityFrameworkCore\bin\Debug\netcoreapp3.0\OrchardCore.Data.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.OpenId.Core.EntityFrameworkCore\bin\Debug\netcoreapp3.0\OrchardCore.OpenId.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.OpenId.Core.EntityFrameworkCore\obj\Debug\netcoreapp3.0\OrchardCore.OpenId.Core.EntityFrameworkCore.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.OpenId.Core.EntityFrameworkCore\obj\Debug\netcoreapp3.0\OrchardCore.OpenId.Core.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.OpenId.Core.EntityFrameworkCore\obj\Debug\netcoreapp3.0\OrchardCore.OpenId.Core.EntityFrameworkCore.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.OpenId.Core.EntityFrameworkCore\obj\Debug\netcoreapp3.0\OrchardCore.OpenId.Core.EntityFrameworkCore.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.OpenId.Core.EntityFrameworkCore\obj\Debug\netcoreapp3.0\OrchardCore.OpenId.Core.EntityFrameworkCore.dll

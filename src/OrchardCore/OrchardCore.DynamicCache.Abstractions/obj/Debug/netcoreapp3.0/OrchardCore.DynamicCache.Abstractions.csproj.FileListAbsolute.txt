@@ -1,0 +1,9 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DynamicCache.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.DynamicCache.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DynamicCache.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.DynamicCache.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DynamicCache.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DynamicCache.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DynamicCache.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.DynamicCache.Abstractions.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DynamicCache.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.DynamicCache.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DynamicCache.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.DynamicCache.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DynamicCache.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.DynamicCache.Abstractions.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DynamicCache.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.DynamicCache.Abstractions.dll

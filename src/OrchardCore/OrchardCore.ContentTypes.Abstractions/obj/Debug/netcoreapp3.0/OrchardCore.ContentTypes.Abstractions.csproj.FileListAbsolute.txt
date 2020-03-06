@@ -1,0 +1,16 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.ContentTypes.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.ContentTypes.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.ContentManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.ContentManagement.Display.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Liquid.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.ContentTypes.Abstractions.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.ContentTypes.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.ContentTypes.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.ContentTypes.Abstractions.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ContentTypes.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.ContentTypes.Abstractions.dll

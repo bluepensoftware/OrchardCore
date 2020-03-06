@@ -1,0 +1,11 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\bin\Debug\netcoreapp3.0\OrchardCore.HomeRoute.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\bin\Debug\netcoreapp3.0\OrchardCore.HomeRoute.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\bin\Debug\netcoreapp3.0\OrchardCore.Module.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\obj\Debug\netcoreapp3.0\OrchardCore.HomeRoute.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\obj\Debug\netcoreapp3.0\OrchardCore.HomeRoute.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\obj\Debug\netcoreapp3.0\OrchardCore.HomeRoute.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HomeRoute\obj\Debug\netcoreapp3.0\OrchardCore.HomeRoute.dll

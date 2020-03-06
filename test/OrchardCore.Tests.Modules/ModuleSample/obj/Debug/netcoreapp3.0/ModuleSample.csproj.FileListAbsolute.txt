@@ -1,0 +1,10 @@
+C:\projects\orchard\OrchardCore\test\OrchardCore.Tests.Modules\ModuleSample\bin\Debug\netcoreapp3.0\ModuleSample.deps.json
+C:\projects\orchard\OrchardCore\test\OrchardCore.Tests.Modules\ModuleSample\bin\Debug\netcoreapp3.0\ModuleSample.dll
+C:\projects\orchard\OrchardCore\test\OrchardCore.Tests.Modules\ModuleSample\bin\Debug\netcoreapp3.0\ModuleSample.pdb
+C:\projects\orchard\OrchardCore\test\OrchardCore.Tests.Modules\ModuleSample\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\test\OrchardCore.Tests.Modules\ModuleSample\bin\Debug\netcoreapp3.0\OrchardCore.Module.Targets.dll
+C:\projects\orchard\OrchardCore\test\OrchardCore.Tests.Modules\ModuleSample\obj\Debug\netcoreapp3.0\ModuleSample.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\test\OrchardCore.Tests.Modules\ModuleSample\obj\Debug\netcoreapp3.0\ModuleSample.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\test\OrchardCore.Tests.Modules\ModuleSample\obj\Debug\netcoreapp3.0\ModuleSample.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\test\OrchardCore.Tests.Modules\ModuleSample\obj\Debug\netcoreapp3.0\ModuleSample.dll
+C:\projects\orchard\OrchardCore\test\OrchardCore.Tests.Modules\ModuleSample\obj\Debug\netcoreapp3.0\ModuleSample.pdb

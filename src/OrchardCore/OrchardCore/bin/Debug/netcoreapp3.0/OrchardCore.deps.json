@@ -1,0 +1,97 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OrchardCore/1.0.0-rc1": {
+        "dependencies": {
+          "NodaTime": "2.4.7",
+          "OrchardCore.Abstractions": "1.0.0-rc1",
+          "OrchardCore.Localization.Abstractions": "1.0.0-rc1",
+          "NCrontab": "3.3.1"
+        },
+        "runtime": {
+          "OrchardCore.dll": {}
+        }
+      },
+      "NCrontab/3.3.1": {
+        "runtime": {
+          "lib/netstandard2.0/NCrontab.dll": {
+            "assemblyVersion": "3.3.1.0",
+            "fileVersion": "3.3.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "NodaTime/2.4.7": {
+        "runtime": {
+          "lib/netstandard2.0/NodaTime.dll": {
+            "assemblyVersion": "2.4.7.0",
+            "fileVersion": "2.4.7.0"
+          }
+        }
+      },
+      "OrchardCore.Abstractions/1.0.0-rc1": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "OrchardCore.Abstractions.dll": {}
+        }
+      },
+      "OrchardCore.Localization.Abstractions/1.0.0-rc1": {
+        "runtime": {
+          "OrchardCore.Localization.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrchardCore/1.0.0-rc1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NCrontab/3.3.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-G3tzcIIgsiyZyVbHNPyn5+adaM9UjeVNgjrRsvXU7wo2sMhpvpQrir29dcjIND53H/fuTdgg9nI3SfFFg7barA==",
+      "path": "ncrontab/3.3.1",
+      "hashPath": "ncrontab.3.3.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "NodaTime/2.4.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qXOjY8467lqeOLDOZa7TmHL4jvlMDz9xcQuMXgXW7fvVXJNMx1Z6DBVozK+FMzH4eHscccfpgJmv8ua9s8mtbA==",
+      "path": "nodatime/2.4.7",
+      "hashPath": "nodatime.2.4.7.nupkg.sha512"
+    },
+    "OrchardCore.Abstractions/1.0.0-rc1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.Localization.Abstractions/1.0.0-rc1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

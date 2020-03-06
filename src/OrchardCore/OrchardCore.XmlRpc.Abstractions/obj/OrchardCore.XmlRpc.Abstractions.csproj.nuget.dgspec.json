@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.XmlRpc.Abstractions\\OrchardCore.XmlRpc.Abstractions.csproj": {}
+  },
+  "projects": {
+    "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.XmlRpc.Abstractions\\OrchardCore.XmlRpc.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.XmlRpc.Abstractions\\OrchardCore.XmlRpc.Abstractions.csproj",
+        "projectName": "OrchardCore.XmlRpc.Abstractions",
+        "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.XmlRpc.Abstractions\\OrchardCore.XmlRpc.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\ebabayan\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.XmlRpc.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\projects\\orchard\\OrchardCore\\NuGet.Config",
+          "C:\\Users\\ebabayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

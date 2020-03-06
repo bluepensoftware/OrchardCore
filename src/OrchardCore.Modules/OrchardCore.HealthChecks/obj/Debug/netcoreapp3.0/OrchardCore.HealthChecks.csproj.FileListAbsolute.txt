@@ -1,0 +1,8 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HealthChecks\bin\Debug\netcoreapp3.0\OrchardCore.HealthChecks.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HealthChecks\bin\Debug\netcoreapp3.0\OrchardCore.HealthChecks.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HealthChecks\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HealthChecks\bin\Debug\netcoreapp3.0\OrchardCore.Module.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HealthChecks\obj\Debug\netcoreapp3.0\OrchardCore.HealthChecks.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HealthChecks\obj\Debug\netcoreapp3.0\OrchardCore.HealthChecks.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HealthChecks\obj\Debug\netcoreapp3.0\OrchardCore.HealthChecks.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.HealthChecks\obj\Debug\netcoreapp3.0\OrchardCore.HealthChecks.dll

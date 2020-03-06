@@ -1,0 +1,5 @@
+C:\projects\orchard\OrchardCore\src\Templates\OrchardCore.ProjectTemplates\bin\Debug\netcoreapp3.0\OrchardCore.ProjectTemplates.deps.json
+C:\projects\orchard\OrchardCore\src\Templates\OrchardCore.ProjectTemplates\bin\Debug\netcoreapp3.0\OrchardCore.ProjectTemplates.dll
+C:\projects\orchard\OrchardCore\src\Templates\OrchardCore.ProjectTemplates\bin\Debug\netcoreapp3.0\OrchardCore.ProjectTemplates.pdb
+C:\projects\orchard\OrchardCore\src\Templates\OrchardCore.ProjectTemplates\obj\Debug\netcoreapp3.0\OrchardCore.ProjectTemplates.dll
+C:\projects\orchard\OrchardCore\src\Templates\OrchardCore.ProjectTemplates\obj\Debug\netcoreapp3.0\OrchardCore.ProjectTemplates.pdb

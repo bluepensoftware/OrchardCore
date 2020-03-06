@@ -1,0 +1,5 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.Abstractions.dll

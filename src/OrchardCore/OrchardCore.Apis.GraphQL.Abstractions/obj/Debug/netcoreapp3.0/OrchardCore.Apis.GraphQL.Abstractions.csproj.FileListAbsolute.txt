@@ -1,0 +1,8 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Abstractions.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Abstractions.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Abstractions.dll

@@ -1,0 +1,16 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Liquid.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Liquid.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.DynamicCache.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.Liquid.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\bin\Debug\netcoreapp3.0\OrchardCore.ResourceManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Liquid.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Liquid.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Liquid.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Liquid.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Liquid\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Liquid.dll

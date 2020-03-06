@@ -1,0 +1,9 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Mvc.Core\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Mvc.Core\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Mvc.Core\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Mvc.Core\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Mvc.Core\obj\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Mvc.Core\obj\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Mvc.Core\obj\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Mvc.Core\obj\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Mvc.Core\obj\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll

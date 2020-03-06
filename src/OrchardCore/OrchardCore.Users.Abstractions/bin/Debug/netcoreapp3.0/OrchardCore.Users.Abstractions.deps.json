@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OrchardCore.Users.Abstractions/1.0.0-rc1": {
+        "runtime": {
+          "OrchardCore.Users.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrchardCore.Users.Abstractions/1.0.0-rc1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

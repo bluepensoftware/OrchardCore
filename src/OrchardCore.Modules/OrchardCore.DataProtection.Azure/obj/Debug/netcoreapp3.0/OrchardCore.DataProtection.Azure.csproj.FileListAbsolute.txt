@@ -1,0 +1,8 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.DataProtection.Azure\bin\Debug\netcoreapp3.0\OrchardCore.DataProtection.Azure.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.DataProtection.Azure\bin\Debug\netcoreapp3.0\OrchardCore.DataProtection.Azure.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.DataProtection.Azure\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.DataProtection.Azure\bin\Debug\netcoreapp3.0\OrchardCore.Module.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.DataProtection.Azure\obj\Debug\netcoreapp3.0\OrchardCore.DataProtection.Azure.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.DataProtection.Azure\obj\Debug\netcoreapp3.0\OrchardCore.DataProtection.Azure.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.DataProtection.Azure\obj\Debug\netcoreapp3.0\OrchardCore.DataProtection.Azure.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.DataProtection.Azure\obj\Debug\netcoreapp3.0\OrchardCore.DataProtection.Azure.dll

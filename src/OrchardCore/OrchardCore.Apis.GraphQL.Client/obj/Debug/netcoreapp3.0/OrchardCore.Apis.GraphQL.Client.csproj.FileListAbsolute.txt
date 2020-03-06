@@ -1,0 +1,5 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Client\bin\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Client.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Client\bin\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Client.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Client\obj\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Client.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Client\obj\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Client.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Apis.GraphQL.Client\obj\Debug\netcoreapp3.0\OrchardCore.Apis.GraphQL.Client.dll

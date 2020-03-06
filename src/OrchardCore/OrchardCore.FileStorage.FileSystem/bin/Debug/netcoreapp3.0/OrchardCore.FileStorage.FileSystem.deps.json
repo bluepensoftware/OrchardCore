@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OrchardCore.FileStorage.FileSystem/1.0.0-rc1": {
+        "dependencies": {
+          "OrchardCore.FileStorage.Abstractions": "1.0.0-rc1"
+        },
+        "runtime": {
+          "OrchardCore.FileStorage.FileSystem.dll": {}
+        }
+      },
+      "OrchardCore.FileStorage.Abstractions/1.0.0-rc1": {
+        "runtime": {
+          "OrchardCore.FileStorage.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrchardCore.FileStorage.FileSystem/1.0.0-rc1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.FileStorage.Abstractions/1.0.0-rc1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

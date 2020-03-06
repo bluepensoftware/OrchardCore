@@ -1,0 +1,14 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Workflows.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Workflows.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Liquid.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Workflows.Abstractions.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Workflows.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Workflows.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Workflows.Abstractions.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Workflows.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Workflows.Abstractions.dll

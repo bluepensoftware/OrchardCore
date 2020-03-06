@@ -1,0 +1,13 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\bin\Debug\netcoreapp3.0\OrchardCore.Application.Mvc.Targets.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\bin\Debug\netcoreapp3.0\OrchardCore.Application.Mvc.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\bin\Debug\netcoreapp3.0\OrchardCore.Application.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\bin\Debug\netcoreapp3.0\OrchardCore.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\obj\Debug\netcoreapp3.0\OrchardCore.Application.Mvc.Targets.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\obj\Debug\netcoreapp3.0\OrchardCore.Application.Mvc.Targets.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\obj\Debug\netcoreapp3.0\OrchardCore.Application.Mvc.Targets.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\obj\Debug\netcoreapp3.0\OrchardCore.Application.Mvc.Targets.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Application.Mvc.Targets\obj\Debug\netcoreapp3.0\OrchardCore.Application.Mvc.Targets.dll

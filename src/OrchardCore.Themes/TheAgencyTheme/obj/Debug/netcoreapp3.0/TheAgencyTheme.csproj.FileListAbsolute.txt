@@ -1,0 +1,16 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\TheAgencyTheme.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\TheAgencyTheme.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\OrchardCore.Liquid.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\OrchardCore.Module.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\bin\Debug\netcoreapp3.0\OrchardCore.Theme.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\obj\Debug\netcoreapp3.0\TheAgencyTheme.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\obj\Debug\netcoreapp3.0\TheAgencyTheme.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\obj\Debug\netcoreapp3.0\TheAgencyTheme.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\obj\Debug\netcoreapp3.0\TheAgencyTheme.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheAgencyTheme\obj\Debug\netcoreapp3.0\TheAgencyTheme.dll

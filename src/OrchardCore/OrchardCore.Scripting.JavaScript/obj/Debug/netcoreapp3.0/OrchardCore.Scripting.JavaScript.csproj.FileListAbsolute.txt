@@ -1,0 +1,8 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Scripting.JavaScript\bin\Debug\netcoreapp3.0\OrchardCore.Scripting.JavaScript.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Scripting.JavaScript\bin\Debug\netcoreapp3.0\OrchardCore.Scripting.JavaScript.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Scripting.JavaScript\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Scripting.JavaScript\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Scripting.JavaScript\obj\Debug\netcoreapp3.0\OrchardCore.Scripting.JavaScript.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Scripting.JavaScript\obj\Debug\netcoreapp3.0\OrchardCore.Scripting.JavaScript.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Scripting.JavaScript\obj\Debug\netcoreapp3.0\OrchardCore.Scripting.JavaScript.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Scripting.JavaScript\obj\Debug\netcoreapp3.0\OrchardCore.Scripting.JavaScript.dll

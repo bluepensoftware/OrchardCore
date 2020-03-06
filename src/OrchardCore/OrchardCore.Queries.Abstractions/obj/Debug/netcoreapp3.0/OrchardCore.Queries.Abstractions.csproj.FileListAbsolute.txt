@@ -1,0 +1,6 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Queries.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Queries.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Queries.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Queries.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Queries.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Queries.Abstractions.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Queries.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Queries.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Queries.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Queries.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Queries.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Queries.Abstractions.dll

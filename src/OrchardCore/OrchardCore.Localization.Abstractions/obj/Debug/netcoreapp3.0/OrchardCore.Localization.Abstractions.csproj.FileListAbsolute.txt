@@ -1,0 +1,5 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll

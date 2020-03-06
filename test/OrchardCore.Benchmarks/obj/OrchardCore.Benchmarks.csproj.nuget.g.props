@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\ebabayan\.nuget\packages\;C:\Microsoft\Xamarin\NuGet\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.4.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.zh-tw\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.zh-TW.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.zh-tw\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.zh-TW.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.zh-cn\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.zh-CN.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.zh-cn\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.zh-CN.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.vi\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.vi.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.vi\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.vi.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.uk\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.uk.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.uk\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.uk.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.tr\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.tr.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.tr\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.tr.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.sv\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.sv.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.sv\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.sv.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.sr-sp\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.sr-SP.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.sr-sp\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.sr-SP.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.sr-cs\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.sr-CS.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.sr-cs\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.sr-CS.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.sl\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.sl.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.sl\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.sl.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.sk\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.sk.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.sk\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.sk.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.ru\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.ru.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.ru\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.ru.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.pt\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.pt.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.pt\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.pt.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.pl\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.pl.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.pl\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.pl.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.nl\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.nl.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.nl\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.nl.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.mk\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.mk.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.mk\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.mk.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.lt\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.lt.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.lt\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.lt.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.ko\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.ko.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.ko\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.ko.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.ja\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.ja.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.ja\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.ja.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.it\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.it.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.it\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.it.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.id\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.id.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.id\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.id.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.hu\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.hu.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.hu\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.hu.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.hr\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.hr.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.hr\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.hr.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.he\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.he.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.he\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.he.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.fr\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.fr.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.fr\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.fr.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.fi\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.fi.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.fi\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.fi.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.fa\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.fa.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.fa\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.fa.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.es\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.es.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.es\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.es.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.el\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.el.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.el\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.el.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.de\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.de.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.de\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.de.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.da\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.da.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.da\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.da.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.cs\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.cs.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.cs\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.cs.props')" />
+    <Import Project="$(NuGetPackageRoot)orchardcore.translations.ar\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.ar.props" Condition="Exists('$(NuGetPackageRoot)orchardcore.translations.ar\1.0.0-rc1-100729\buildTransitive\OrchardCore.Translations.ar.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Pkgxunit_analyzers Condition=" '$(Pkgxunit_analyzers)' == '' ">C:\Users\ebabayan\.nuget\packages\xunit.analyzers\0.10.0</Pkgxunit_analyzers>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\ebabayan\.nuget\packages\microsoft.codeanalysis.analyzers\2.9.3</PkgMicrosoft_CodeAnalysis_Analyzers>
+  </PropertyGroup>
+</Project>

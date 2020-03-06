@@ -1,0 +1,10 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.XmlRpc\bin\Debug\netcoreapp3.0\OrchardCore.XmlRpc.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.XmlRpc\bin\Debug\netcoreapp3.0\OrchardCore.XmlRpc.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.XmlRpc\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.XmlRpc\bin\Debug\netcoreapp3.0\OrchardCore.Module.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.XmlRpc\bin\Debug\netcoreapp3.0\OrchardCore.XmlRpc.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.XmlRpc\obj\Debug\netcoreapp3.0\OrchardCore.XmlRpc.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.XmlRpc\obj\Debug\netcoreapp3.0\OrchardCore.XmlRpc.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.XmlRpc\obj\Debug\netcoreapp3.0\OrchardCore.XmlRpc.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.XmlRpc\obj\Debug\netcoreapp3.0\OrchardCore.XmlRpc.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.XmlRpc\obj\Debug\netcoreapp3.0\OrchardCore.XmlRpc.dll

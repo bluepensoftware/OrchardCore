@@ -1,0 +1,8 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.FileSystem\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.FileSystem.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.FileSystem\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.FileSystem.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.FileSystem\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.FileSystem\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.FileSystem.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.FileSystem\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.FileSystem.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.FileSystem\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.FileSystem.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.FileSystem\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.FileSystem.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.FileSystem\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.FileSystem.dll

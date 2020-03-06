@@ -1,0 +1,16 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.Scripting.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.Scripting.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.Data.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.Data.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.Module.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\bin\Debug\netcoreapp3.0\OrchardCore.Scripting.JavaScript.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\obj\Debug\netcoreapp3.0\OrchardCore.Scripting.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\obj\Debug\netcoreapp3.0\OrchardCore.Scripting.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\obj\Debug\netcoreapp3.0\OrchardCore.Scripting.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\obj\Debug\netcoreapp3.0\OrchardCore.Scripting.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Scripting\obj\Debug\netcoreapp3.0\OrchardCore.Scripting.dll

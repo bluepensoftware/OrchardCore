@@ -1,0 +1,8 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Menu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Menu.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Menu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Menu.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Menu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.ContentManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Menu.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Menu.Abstractions.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Menu.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Menu.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Menu.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Menu.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Menu.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Menu.Abstractions.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Menu.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Menu.Abstractions.dll

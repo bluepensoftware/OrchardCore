@@ -1,0 +1,9 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.AzureBlob\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.AzureBlob.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.AzureBlob\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.AzureBlob.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.AzureBlob\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.AzureBlob\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.AzureBlob\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.AzureBlob.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.AzureBlob\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.AzureBlob.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.AzureBlob\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.AzureBlob.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.AzureBlob\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.AzureBlob.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.FileStorage.AzureBlob\obj\Debug\netcoreapp3.0\OrchardCore.FileStorage.AzureBlob.dll

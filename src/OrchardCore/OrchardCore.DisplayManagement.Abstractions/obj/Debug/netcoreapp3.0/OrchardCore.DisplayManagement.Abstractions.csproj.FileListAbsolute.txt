@@ -1,0 +1,5 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll

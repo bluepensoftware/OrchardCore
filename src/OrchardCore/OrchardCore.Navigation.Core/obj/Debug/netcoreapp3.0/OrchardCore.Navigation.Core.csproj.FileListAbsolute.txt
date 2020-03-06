@@ -1,0 +1,14 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.0\OrchardCore.Navigation.Core.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.0\OrchardCore.Navigation.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.0\OrchardCore.Data.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.0\OrchardCore.Data.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.0\OrchardCore.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.0\OrchardCore.Navigation.Core.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.0\OrchardCore.Navigation.Core.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.0\OrchardCore.Navigation.Core.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.0\OrchardCore.Navigation.Core.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Navigation.Core\obj\Debug\netcoreapp3.0\OrchardCore.Navigation.Core.dll

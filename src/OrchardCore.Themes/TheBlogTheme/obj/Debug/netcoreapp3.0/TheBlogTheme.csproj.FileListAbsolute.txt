@@ -1,0 +1,16 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\TheBlogTheme.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\TheBlogTheme.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\OrchardCore.Liquid.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\OrchardCore.Module.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\bin\Debug\netcoreapp3.0\OrchardCore.Theme.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\obj\Debug\netcoreapp3.0\TheBlogTheme.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\obj\Debug\netcoreapp3.0\TheBlogTheme.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\obj\Debug\netcoreapp3.0\TheBlogTheme.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\obj\Debug\netcoreapp3.0\TheBlogTheme.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore.Themes\TheBlogTheme\obj\Debug\netcoreapp3.0\TheBlogTheme.dll

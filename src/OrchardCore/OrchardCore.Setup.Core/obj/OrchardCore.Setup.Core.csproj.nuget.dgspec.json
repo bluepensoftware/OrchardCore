@@ -1,0 +1,417 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Core\\OrchardCore.Setup.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj",
+        "projectName": "OrchardCore.Abstractions",
+        "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\ebabayan\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\projects\\orchard\\OrchardCore\\NuGet.Config",
+          "C:\\Users\\ebabayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj",
+        "projectName": "OrchardCore.Data.Abstractions",
+        "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\ebabayan\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\projects\\orchard\\OrchardCore\\NuGet.Config",
+          "C:\\Users\\ebabayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "YesSql.Core": {
+              "target": "Package",
+              "version": "[2.0.0-beta-1396, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj",
+        "projectName": "OrchardCore.Recipes.Abstractions",
+        "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\ebabayan\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\projects\\orchard\\OrchardCore\\NuGet.Config",
+          "C:\\Users\\ebabayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj": {
+                "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Data.Abstractions\\OrchardCore.Data.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj",
+        "projectName": "OrchardCore.Setup.Abstractions",
+        "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\ebabayan\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\projects\\orchard\\OrchardCore\\NuGet.Config",
+          "C:\\Users\\ebabayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+                "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj"
+              },
+              "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj": {
+                "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Core\\OrchardCore.Setup.Core.csproj": {
+      "version": "1.0.0-rc1",
+      "restore": {
+        "projectUniqueName": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Core\\OrchardCore.Setup.Core.csproj",
+        "projectName": "OrchardCore.Setup.Core",
+        "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Core\\OrchardCore.Setup.Core.csproj",
+        "packagesPath": "C:\\Users\\ebabayan\\.nuget\\packages\\",
+        "outputPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\projects\\orchard\\OrchardCore\\NuGet.Config",
+          "C:\\Users\\ebabayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {
+              "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj": {
+                "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Abstractions\\OrchardCore.Abstractions.csproj"
+              },
+              "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj": {
+                "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Recipes.Abstractions\\OrchardCore.Recipes.Abstractions.csproj"
+              },
+              "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj": {
+                "projectPath": "C:\\projects\\orchard\\OrchardCore\\src\\OrchardCore\\OrchardCore.Setup.Abstractions\\OrchardCore.Setup.Abstractions.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "YesSql.Abstractions": {
+              "target": "Package",
+              "version": "[2.0.0-beta-1396, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

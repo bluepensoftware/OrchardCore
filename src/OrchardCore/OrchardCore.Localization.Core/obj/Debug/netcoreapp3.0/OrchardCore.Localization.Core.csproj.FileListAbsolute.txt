@@ -1,0 +1,8 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Core\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Core.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Core\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Core\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Core\obj\Debug\netcoreapp3.0\OrchardCore.Localization.Core.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Core\obj\Debug\netcoreapp3.0\OrchardCore.Localization.Core.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Core\obj\Debug\netcoreapp3.0\OrchardCore.Localization.Core.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Core\obj\Debug\netcoreapp3.0\OrchardCore.Localization.Core.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Localization.Core\obj\Debug\netcoreapp3.0\OrchardCore.Localization.Core.dll

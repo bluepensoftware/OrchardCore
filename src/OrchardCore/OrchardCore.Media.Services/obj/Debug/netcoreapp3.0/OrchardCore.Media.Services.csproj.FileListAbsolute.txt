@@ -1,0 +1,11 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\bin\Debug\netcoreapp3.0\OrchardCore.Media.Services.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\bin\Debug\netcoreapp3.0\OrchardCore.Media.Services.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\bin\Debug\netcoreapp3.0\OrchardCore.ContentManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\bin\Debug\netcoreapp3.0\OrchardCore.Media.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\obj\Debug\netcoreapp3.0\OrchardCore.Media.Services.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\obj\Debug\netcoreapp3.0\OrchardCore.Media.Services.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\obj\Debug\netcoreapp3.0\OrchardCore.Media.Services.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\obj\Debug\netcoreapp3.0\OrchardCore.Media.Services.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Media.Services\obj\Debug\netcoreapp3.0\OrchardCore.Media.Services.dll

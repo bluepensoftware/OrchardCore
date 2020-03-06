@@ -1,0 +1,15 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\bin\Debug\netcoreapp3.0\OrchardCore.ReCaptcha.Core.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\bin\Debug\netcoreapp3.0\OrchardCore.ReCaptcha.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\bin\Debug\netcoreapp3.0\OrchardCore.Liquid.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\bin\Debug\netcoreapp3.0\OrchardCore.ResourceManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\obj\Debug\netcoreapp3.0\OrchardCore.ReCaptcha.Core.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\obj\Debug\netcoreapp3.0\OrchardCore.ReCaptcha.Core.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\obj\Debug\netcoreapp3.0\OrchardCore.ReCaptcha.Core.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\obj\Debug\netcoreapp3.0\OrchardCore.ReCaptcha.Core.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.ReCaptcha.Core\obj\Debug\netcoreapp3.0\OrchardCore.ReCaptcha.Core.dll

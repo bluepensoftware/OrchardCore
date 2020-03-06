@@ -1,0 +1,13 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\bin\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\bin\Debug\netcoreapp3.0\OrchardCore.Liquid.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\bin\Debug\netcoreapp3.0\OrchardCore.Mvc.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.DisplayManagement\obj\Debug\netcoreapp3.0\OrchardCore.DisplayManagement.dll

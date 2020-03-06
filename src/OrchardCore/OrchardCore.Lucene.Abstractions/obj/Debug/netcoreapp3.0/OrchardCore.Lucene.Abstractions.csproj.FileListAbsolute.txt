@@ -1,0 +1,6 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Lucene.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Lucene.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Lucene.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Lucene.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Lucene.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Lucene.Abstractions.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Lucene.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Lucene.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Lucene.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Lucene.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Lucene.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Lucene.Abstractions.dll

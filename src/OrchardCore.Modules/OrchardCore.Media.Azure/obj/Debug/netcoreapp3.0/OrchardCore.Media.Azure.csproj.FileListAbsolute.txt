@@ -1,0 +1,15 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\bin\Debug\netcoreapp3.0\OrchardCore.Media.Azure.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\bin\Debug\netcoreapp3.0\OrchardCore.Media.Azure.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\bin\Debug\netcoreapp3.0\OrchardCore.ContentManagement.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\bin\Debug\netcoreapp3.0\OrchardCore.FileStorage.AzureBlob.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\bin\Debug\netcoreapp3.0\OrchardCore.Media.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\bin\Debug\netcoreapp3.0\OrchardCore.Media.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\bin\Debug\netcoreapp3.0\OrchardCore.Module.Targets.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\obj\Debug\netcoreapp3.0\OrchardCore.Media.Azure.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\obj\Debug\netcoreapp3.0\OrchardCore.Media.Azure.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\obj\Debug\netcoreapp3.0\OrchardCore.Media.Azure.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\obj\Debug\netcoreapp3.0\OrchardCore.Media.Azure.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore.Modules\OrchardCore.Media.Azure\obj\Debug\netcoreapp3.0\OrchardCore.Media.Azure.dll

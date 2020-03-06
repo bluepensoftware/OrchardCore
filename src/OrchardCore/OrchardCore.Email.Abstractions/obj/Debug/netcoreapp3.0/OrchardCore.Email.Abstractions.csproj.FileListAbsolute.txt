@@ -1,0 +1,5 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Email.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Email.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Email.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Email.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.Email.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.Email.Abstractions.dll

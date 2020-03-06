@@ -1,0 +1,15 @@
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.AdminMenu.Abstractions.deps.json
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.AdminMenu.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Data.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Data.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Infrastructure.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Localization.Abstractions.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\bin\Debug\netcoreapp3.0\OrchardCore.Navigation.Core.dll
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.AdminMenu.Abstractions.csprojAssemblyReference.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.AdminMenu.Abstractions.AssemblyInfoInputs.cache
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.AdminMenu.Abstractions.AssemblyInfo.cs
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.AdminMenu.Abstractions.csproj.CopyComplete
+C:\projects\orchard\OrchardCore\src\OrchardCore\OrchardCore.AdminMenu.Abstractions\obj\Debug\netcoreapp3.0\OrchardCore.AdminMenu.Abstractions.dll

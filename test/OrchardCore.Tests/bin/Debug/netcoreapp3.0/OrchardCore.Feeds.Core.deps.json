@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "OrchardCore.Feeds.Core/1.0.0-rc1": {
+        "dependencies": {
+          "OrchardCore.Feeds.Abstractions": "1.0.0-rc1"
+        },
+        "runtime": {
+          "OrchardCore.Feeds.Core.dll": {}
+        }
+      },
+      "OrchardCore.DisplayManagement.Abstractions/1.0.0-rc1": {
+        "runtime": {
+          "OrchardCore.DisplayManagement.Abstractions.dll": {}
+        }
+      },
+      "OrchardCore.Feeds.Abstractions/1.0.0-rc1": {
+        "dependencies": {
+          "OrchardCore.DisplayManagement.Abstractions": "1.0.0-rc1"
+        },
+        "runtime": {
+          "OrchardCore.Feeds.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OrchardCore.Feeds.Core/1.0.0-rc1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.DisplayManagement.Abstractions/1.0.0-rc1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OrchardCore.Feeds.Abstractions/1.0.0-rc1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
